@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <StartupObject>NguyenHuuHoang_2050531200146_31_3_2002.Bai_tap_58_70.bai_64</StartupObject>
+  </PropertyGroup>
+
+</Project>
