@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\OS\\source\\repos\\NguyenHuuHoang_2050531200146_31_3_2002\\NguyenHuuHoang_2050531200146_31_3_2002\\NguyenHuuHoang_2050531200146_31_3_2002.csproj": {}
+    "C:\\Users\\ADMIN\\Desktop\\hoangdeptrai-main\\NguyenHuuHoang_2050531200146_31_3_2002\\NguyenHuuHoang_2050531200146_31_3_2002\\NguyenHuuHoang_2050531200146_31_3_2002.csproj": {}
   },
   "projects": {
-    "C:\\Users\\OS\\source\\repos\\NguyenHuuHoang_2050531200146_31_3_2002\\NguyenHuuHoang_2050531200146_31_3_2002\\NguyenHuuHoang_2050531200146_31_3_2002.csproj": {
+    "C:\\Users\\ADMIN\\Desktop\\hoangdeptrai-main\\NguyenHuuHoang_2050531200146_31_3_2002\\NguyenHuuHoang_2050531200146_31_3_2002\\NguyenHuuHoang_2050531200146_31_3_2002.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\OS\\source\\repos\\NguyenHuuHoang_2050531200146_31_3_2002\\NguyenHuuHoang_2050531200146_31_3_2002\\NguyenHuuHoang_2050531200146_31_3_2002.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\hoangdeptrai-main\\NguyenHuuHoang_2050531200146_31_3_2002\\NguyenHuuHoang_2050531200146_31_3_2002\\NguyenHuuHoang_2050531200146_31_3_2002.csproj",
         "projectName": "NguyenHuuHoang_2050531200146_31_3_2002",
-        "projectPath": "C:\\Users\\OS\\source\\repos\\NguyenHuuHoang_2050531200146_31_3_2002\\NguyenHuuHoang_2050531200146_31_3_2002\\NguyenHuuHoang_2050531200146_31_3_2002.csproj",
-        "packagesPath": "C:\\Users\\OS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\OS\\source\\repos\\NguyenHuuHoang_2050531200146_31_3_2002\\NguyenHuuHoang_2050531200146_31_3_2002\\obj\\",
+        "projectPath": "C:\\Users\\ADMIN\\Desktop\\hoangdeptrai-main\\NguyenHuuHoang_2050531200146_31_3_2002\\NguyenHuuHoang_2050531200146_31_3_2002\\NguyenHuuHoang_2050531200146_31_3_2002.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Desktop\\hoangdeptrai-main\\NguyenHuuHoang_2050531200146_31_3_2002\\NguyenHuuHoang_2050531200146_31_3_2002\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\OS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
